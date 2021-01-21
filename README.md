@@ -1,6 +1,6 @@
 # Tales from the Crypto
 
-![Stock Sentiment](../Resources/sentimental.jpeg)
+![Stock Sentiment](Resources/sentimental.jpeg)
 
 ## Background
 
@@ -22,16 +22,16 @@ Next, I looked at the ngrams and word frequency for each coin.
 
 Finally, I generated word clouds for each coin to summarize the news for each coin.
 
-![btc-word-cloud.png](../Resources/btc_word_cloud.png)
+![btc-word-cloud.png](Resources/btc_word_cloud.png)
 
-![eth-word-cloud.png](../Resources/eth_word_cloud.png)
+![eth-word-cloud.png](Resources/eth_word_cloud.png)
 
 #### Named Entity Recognition
 
 In this section, I built a named entity recognition model for both coins and visualized the tags using SpaCy.
 
-![btc-ner.png](../Resources/btc_ner.png)
+![btc-ner.png](Resources/btc_ner.png)
 
-![eth-ner.png](../Resources/eth_ner.png)
+![eth-ner.png](Resources/eth_ner.png)
 
 ---
